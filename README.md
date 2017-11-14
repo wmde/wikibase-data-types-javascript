@@ -7,5 +7,5 @@ for the [Wikidata project](https://wikidata.org/).
 
 ## Release notes
 
-### 0.1.0
+### 0.1.0 (2017-11-14)
 * Initial release. Moved out JavaScript code from the PHP library.
