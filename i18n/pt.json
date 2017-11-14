@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alchimista",
+			"Luckas",
+			"Imperadeiro98",
+			"Vitorvicentevalente",
+			"Fúlvio",
+			"Hamilton Abreu"
+		]
+	},
+	"datatypes-desc": "Conjunto de definições de tipos de dados",
+	"datatypes-type-string": "String",
+	"datatypes-type-quantity": "Quantidade",
+	"datatypes-type-monolingualtext": "Texto monolingue",
+	"datatypes-type-multilingualtext": "Texto multilingue",
+	"datatypes-type-number": "Número",
+	"datatypes-type-mediawiki-title": "Título do MediaWiki",
+	"datatypes-type-unknown": "Não Especificado",
+	"datatypes-type-boolean": "Booleano",
+	"datatypes-type-globe-coordinate": "Coordenadas geográficas",
+	"datatypes-type-time": "Ponto no tempo"
+}

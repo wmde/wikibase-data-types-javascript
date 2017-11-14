@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Michawiki"
+		]
+	},
+	"datatypes-desc": "Zběrka definicijow datowych typow",
+	"datatypes-type-string": "Znamuškowy rjeśazk",
+	"datatypes-type-quantity": "Tšocha",
+	"datatypes-type-number": "Licba",
+	"datatypes-type-mediawiki-title": "Titel MediaWiki",
+	"datatypes-type-unknown": "Njepódany",
+	"datatypes-type-boolean": "Boolean",
+	"datatypes-type-globe-coordinate": "Geografiske koordinaty",
+	"datatypes-type-time": "Cas"
+}
