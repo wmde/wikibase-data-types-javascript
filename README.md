@@ -1,3 +1,5 @@
+[READ-ONLY] This component has been integrated into [Wikibase](https://gerrit.wikimedia.org/r/#/admin/projects/mediawiki/extensions/Wikibase) extension.
+
 JavaScript counterpart of the [DataTypes](https://gerrit.wikimedia.org/r/#/admin/projects/mediawiki/extensions/DataTypes) PHP library.
 
 ## Authors
